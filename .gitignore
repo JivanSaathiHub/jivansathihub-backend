@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# env files (VERY IMPORTANT 🔥)
+.env
+.env.local
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# build files
+/dist
+/build
+
+# misc
+.DS_Store
+
+# uploads (if you store images locally)
+uploads/
